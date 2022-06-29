@@ -5,7 +5,7 @@ import Button from "./Button.js";
 
 // TODO: Replace with your own publishable key
 const stripeLoadedPromise = loadStripe(
-  "pk_test_51LFwWNBzt1mO8veL45xxzaAAiNoUla3KAmJJVh16DpJAK3od9viLkfgZzPRbmjzmYPjLtiMvVz1ANziCWTv3xUPH00mXJMPuVg"
+  "pk_test_51HsqkCGuhXEITAut89vmc4jtjYd7XPs8hWfo2XPef15MFqI8rCFc8NqQU9WutlUBsd8kmNqHBeEmSrdMMpeEEyfT00KzeVdate"
 );
 
 export default function Cart({ cart }) {
